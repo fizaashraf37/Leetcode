@@ -12,7 +12,7 @@ class Solution:
             lcs_length = 0
 
             if text1[i] == text2[j]:
-                lcs_length = max(lcs_length, 1 + lcs(i+1, j+1, memo))
+                lcs_length =  1 + lcs(i+1, j+1, memo)
             else:
                 lcs_length = max(lcs(i+1, j, memo), lcs(i, j+1, memo))
             
