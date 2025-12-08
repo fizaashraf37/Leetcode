@@ -4,7 +4,7 @@ class Solution:
         if not s:
             return True
 
-        i = j = 0
+        i = 0
 
         for j in range(len(t)):
             if s[i] == t[j]:
