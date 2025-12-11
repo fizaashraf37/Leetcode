@@ -25,8 +25,6 @@ class Solution:
             hashmap[employee.id] = employee
         
         for employee in employees:
-            if employee.id == id:
-                target_employee = employee
             for subordinate in employee.subordinates:
                 adj_list[employee.id].append(hashmap[subordinate])
         
