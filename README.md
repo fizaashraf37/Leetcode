@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/fizaashraf37/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,15 +86,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/fizaashraf37/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/fizaashraf37/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/fizaashraf37/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
