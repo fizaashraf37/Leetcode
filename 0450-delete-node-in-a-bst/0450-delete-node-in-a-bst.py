@@ -11,7 +11,6 @@ class Solution:
             return None
         
         if root.val == key:
-            print("key: ", key)
             if not root.left and not root.right:
                 return None
             if root.left and not root.right:
