@@ -11,12 +11,10 @@ class Solution:
             return None
         
         if root.val == key:
-            if not root.left and not root.right:
-                return None
-            if root.left and not root.right:
-                return self.deleteNode(root.left, key)
-            if root.right and not root.left:
-                return self.deleteNode(root.right, key)
+            if not root.left:
+                return root.right
+            if not root.right:
+                return root.left
             successor = self.find_successor(root)
             root.val = successor.val
             root.right = self.deleteNode(root.right, successor.val)
