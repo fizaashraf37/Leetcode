@@ -18,9 +18,8 @@ class Solution:
 
         queue = deque([[0, 1, t]])
         visited = set()
-        time = 0
 
-        while queue and time >= 0:
+        while queue:
             cur_node, probability, time = queue.popleft()
             if cur_node == target and time == 0:
                 return probability
