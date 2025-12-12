@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/fizaashraf37/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/fizaashraf37/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/fizaashraf37/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/fizaashraf37/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/fizaashraf37/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/fizaashraf37/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/fizaashraf37/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/fizaashraf37/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/fizaashraf37/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 ## Breadth-First Search
 |  |
