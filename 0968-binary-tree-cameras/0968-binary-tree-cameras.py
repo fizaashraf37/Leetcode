@@ -18,7 +18,8 @@ class Solution:
             count = 0
             if node.left and not node.left in visited:
                 count += 1
-                visited.add(node.right)
+                if node.right:
+                    visited.add(node.right)
                 visited.add(node)
                 visited.add(parent)
             if node.right and not node.right in visited:
