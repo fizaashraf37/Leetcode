@@ -17,17 +17,15 @@ class Solution:
             left_subtree_count = right_subtree_count = 0
             
             if root.left and root.val == root.left.val:
-                left_subtree_count = left_count + 1
+                left_subtree_count = left_count
             if root.right and root.val == root.right.val:
-                right_subtree_count = right_count + 1
-            if (root.left and root.right) and (root.val == root.left.val and root.val == root.right.val):
-                self.max_count = max(self.max_count, left_subtree_count + right_subtree_count)
-            self.max_count = max(self.max_count, left_subtree_count, right_subtree_count)
+                right_subtree_count = right_count
+            self.max_count = max(self.max_count, left_subtree_count, right_subtree_count, left_subtree_count + right_subtree_count + 1)
             
-            return max(left_subtree_count, right_subtree_count)
+            return max(left_subtree_count, right_subtree_count) + 1
         
         self.max_count = 0
         countPath(root)
 
-        return self.max_count
+        return max(0, self.max_count-1)
             
