@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0494-target-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0494-target-sum) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3531-count-covered-buildings](https://github.com/fizaashraf37/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Backtracking
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/fizaashraf37/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Math
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
