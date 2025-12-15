@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/fizaashraf37/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3531-count-covered-buildings](https://github.com/fizaashraf37/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/fizaashraf37/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fizaashraf37/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
