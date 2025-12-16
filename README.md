@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3531-count-covered-buildings](https://github.com/fizaashraf37/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/fizaashraf37/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/fizaashraf37/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fizaashraf37/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3531-count-covered-buildings](https://github.com/fizaashraf37/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/fizaashraf37/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/fizaashraf37/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fizaashraf37/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
