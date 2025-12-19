@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/fizaashraf37/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/fizaashraf37/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
