@@ -16,10 +16,12 @@ class Solution:
             return 0, True
         
         left_height, is_balanced_left = self.find_depth(root.left)
+        if not is_balanced_left:
+            return left_height, False
         right_height, is_balanced_right = self.find_depth(root.right)
         root_height = max(left_height, right_height) + 1
-        if abs(left_height - right_height) > 1 or (not is_balanced_left or not is_balanced_right):
+        if abs(left_height - right_height) > 1 or not is_balanced_right:
             return root_height, False
 
-        return max(left_height, right_height) + 1, is_balanced_left or is_balanced_right
+        return root_height, True
         
