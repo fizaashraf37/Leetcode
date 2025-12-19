@@ -1,29 +1,28 @@
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
 
-        return self.lcs(s, s[::-1])
+        def lps(left: int, right: int, memo: dict = {}) -> int:
 
-    def lcs(self, s: str, t: str) -> int:
+            if left > right:
+                return 0
 
-        n = len(s)+1
-        prev_row = [0]*n
-        cur_row = [0]*n
+            if left == right:
+                return 1
+            
+            if (left, right) in memo:
+                return memo[(left, right)]
+            
+            longest = 0
+            if s[left] == s[right]:
+                longest = lps(left+1, right-1, memo) + 2
+            else:
+                longest = max(lps(left+1, right, memo), lps(left, right-1, memo))
+            
+            memo[(left, right)] = longest
+            
+            return longest
 
-        for i in range(1, n):
-            for j in range(1, n):
-                if s[i-1] == t[j-1]:
-                    cur_row[j] = prev_row[j-1] + 1
-                else:
-                    cur_row[j] = max(prev_row[j], cur_row[j-1])
-            prev_row, cur_row = cur_row, prev_row
-        
-        return prev_row[-1]
+        return lps(0, len(s)-1)
+            
 
-
-#     a b c d e
-#   0 0 0 0 0 0
-# a 0 1 1 1 1 1
-# c 0 1 1 2 2 2
-# g 0 1 1 1 1 1
-# e 0
-# f 0
+    
