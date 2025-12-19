@@ -5,11 +5,12 @@ class Solution:
 
     def lcs(self, s: str, t: str) -> int:
 
-        prev_row = [0]*(len(s)+1)
-        cur_row = [0]*(len(s)+1)
+        n = len(s)+1
+        prev_row = [0]*n
+        cur_row = [0]*n
 
-        for i in range(1, len(s)+1):
-            for j in range(1, len(s)+1):
+        for i in range(1, n):
+            for j in range(1, n):
                 if s[i-1] == t[j-1]:
                     cur_row[j] = prev_row[j-1] + 1
                 else:
