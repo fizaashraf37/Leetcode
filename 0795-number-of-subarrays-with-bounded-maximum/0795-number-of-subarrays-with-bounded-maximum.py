@@ -19,4 +19,5 @@ class Solution:
         return subarrays_count
 
         3,2,9,3,2,5,4,3,6,5,4,6,6,3,1,1,10,6
-        5,4,3
+        
+        (3,5) (1,4) (1,3) 
