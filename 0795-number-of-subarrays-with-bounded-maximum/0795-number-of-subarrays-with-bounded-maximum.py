@@ -8,9 +8,9 @@ class Solution:
         for i in range(len(nums)):
             smaller_elements_count = 1
             while stack and nums[stack[-1][1]] <= nums[i]:
-                smaller_elements_before = stack[-1][0]
-                smaller_elements_after = i - stack[-1][1]
-                if nums[stack.pop()[1]] >= left:
+                smaller_elements_before, max_element_index = stack.pop() 
+                smaller_elements_after = i - max_element_index
+                if nums[max_element_index] >= left:
                     subarrays_count += smaller_elements_before * smaller_elements_after
                 smaller_elements_count += smaller_elements_before
             if nums[i] <= right:
