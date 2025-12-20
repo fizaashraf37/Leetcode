@@ -3,19 +3,19 @@ class Solution:
 
         stack = []
         count = 0
+        nums.append(float("inf"))
 
-        for i in range(len(nums)+1):
-            num = nums[i] if i < len(nums) else float("inf")
+        for i in range(len(nums)):
             n = 1
             last_element = -1
-            while stack and stack[-1] < num:
+            while stack and stack[-1] < nums[i]:
                 if stack[-1] == last_element:
                     n += 1
                 else:
                     n = 1
                 last_element = stack.pop()
                 count += n
-            stack.append(num)
+            stack.append(nums[i])
         
         return count
         
