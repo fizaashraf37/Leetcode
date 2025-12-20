@@ -9,8 +9,8 @@ class Solution:
         for i in range(len(nums)):
             if not (minK <= nums[i] <= maxK):
                 start = i+1
-                min_queue.clear()
-                max_queue.clear()
+                min_queue = []
+                max_queue = []
                 continue
 
             while min_queue and nums[min_queue[-1]] >= nums[i]:
