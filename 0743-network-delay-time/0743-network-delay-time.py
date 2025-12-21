@@ -13,7 +13,8 @@ class Solution:
             visited.add(node)
             min_delay_time = max(min_delay_time, node_time)
             for neighbor, time in adj_list[node]:
-                heappush(min_heap, (node_time + time, neighbor))
+                if neighbor not in visited:
+                    heappush(min_heap, (node_time + time, neighbor))
 
         return min_delay_time if len(visited) == n else -1
 
