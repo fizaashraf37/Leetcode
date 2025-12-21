@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Array
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/fizaashraf37/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/fizaashraf37/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
