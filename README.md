@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Array
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/fizaashraf37/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/fizaashraf37/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Queue
 |  |
 | ------- |
@@ -210,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/fizaashraf37/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/fizaashraf37/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
