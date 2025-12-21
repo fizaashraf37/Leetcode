@@ -20,8 +20,6 @@ class Solution:
             
             for neighbor, neighbor_time in adj_list[node]:
                 new_time = time + neighbor_time
-                if new_time > times[n-1]:
-                    continue
                 if new_time < times[neighbor]:
                     ways[neighbor] = ways[node]
                     heappush(min_heap, (new_time, neighbor))
