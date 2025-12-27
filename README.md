@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0494-target-sum) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fizaashraf37/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/fizaashraf37/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/fizaashraf37/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/fizaashraf37/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 ## Binary Search Tree
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/fizaashraf37/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0427-construct-quad-tree) |
+| [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/fizaashraf37/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/fizaashraf37/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Union Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
