@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0494-target-sum) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0851-loud-and-rich](https://github.com/fizaashraf37/Leetcode/tree/master/0851-loud-and-rich) |
 | [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/fizaashraf37/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/fizaashraf37/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/fizaashraf37/Leetcode/tree/master/0851-loud-and-rich) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/fizaashraf37/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/fizaashraf37/Leetcode/tree/master/0968-binary-tree-cameras) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/fizaashraf37/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/fizaashraf37/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/fizaashraf37/Leetcode/tree/master/0851-loud-and-rich) |
 | [1377-frog-position-after-t-seconds](https://github.com/fizaashraf37/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/fizaashraf37/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/fizaashraf37/Leetcode/tree/master/0851-loud-and-rich) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/fizaashraf37/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Queue
 |  |
