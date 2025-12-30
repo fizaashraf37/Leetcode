@@ -10,13 +10,10 @@ class Solution:
         top_k = []
 
         for i in range(len(nums), -1, -1):
+            top_k.extend(buckets[i])
+            k -= len(buckets[i])
             if k == 0:
                 break
-            for j in range(len(buckets[i])):
-                top_k.append(buckets[i][j])
-                k -= 1
-                if k == 0:
-                    break
         
         return top_k
 
