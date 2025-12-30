@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/fizaashraf37/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/fizaashraf37/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/fizaashraf37/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/fizaashraf37/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/fizaashraf37/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0427-construct-quad-tree) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/fizaashraf37/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/fizaashraf37/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
