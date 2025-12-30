@@ -2,20 +2,21 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
         nums_freq = Counter(nums)
-        min_heap = []
-        top_k = [0]*k
+        buckets = [[] for _ in range(len(nums)+1)]
 
         for num, count in nums_freq.items():
-            if len(min_heap) < k:
-                heappush(min_heap, [count, num])
-            else:
-                if count > min_heap[0][0]:
-                    heappop(min_heap)
-                    heappush(min_heap, [count, num])
+            buckets[count].append(num)
         
-        while min_heap:
-            k -= 1 
-            top_k[k] = heappop(min_heap)[1]
+        top_k = []
+
+        for i in range(len(nums), -1, -1):
+            if k == 0:
+                break
+            for j in range(len(buckets[i])):
+                top_k.append(buckets[i][j])
+                k -= 1
+                if k == 0:
+                    break
         
         return top_k
 
