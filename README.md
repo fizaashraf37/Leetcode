@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/fizaashraf37/Leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/fizaashraf37/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/fizaashraf37/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/fizaashraf37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/fizaashraf37/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0427-construct-quad-tree) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/fizaashraf37/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/fizaashraf37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/fizaashraf37/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/fizaashraf37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [3531-count-covered-buildings](https://github.com/fizaashraf37/Leetcode/tree/master/3531-count-covered-buildings) |
