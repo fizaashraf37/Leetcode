@@ -9,6 +9,9 @@ class Solution:
                 continue
             left, right = i+1, len(nums)-1
             while left < right:
+                if left > i+1 and nums[left] == nums[left-1]:
+                    left += 1
+                    continue
                 if nums[left] + nums[right] + nums[i] == 0:
                     ans.append([nums[i], nums[left], nums[right]])
                     left += 1
@@ -17,11 +20,6 @@ class Solution:
                     left += 1
                 else:
                     right -= 1
-                while left > i+1 and left < len(nums) and nums[left] == nums[left-1]:
-                    left += 1
         
         return ans
-
-
-        [-4,-1,-1,0,1,2]
         
