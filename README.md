@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/fizaashraf37/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/fizaashraf37/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/fizaashraf37/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/fizaashraf37/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
