@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/fizaashraf37/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/fizaashraf37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/fizaashraf37/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fizaashraf37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/fizaashraf37/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/fizaashraf37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fizaashraf37/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/fizaashraf37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/fizaashraf37/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
