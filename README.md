@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0494-target-sum](https://github.com/fizaashraf37/Leetcode/tree/master/0494-target-sum) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
+| [0739-daily-temperatures](https://github.com/fizaashraf37/Leetcode/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0851-loud-and-rich](https://github.com/fizaashraf37/Leetcode/tree/master/0851-loud-and-rich) |
 | [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -273,11 +274,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/fizaashraf37/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/fizaashraf37/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/fizaashraf37/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/fizaashraf37/Leetcode/tree/master/0739-daily-temperatures) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fizaashraf37/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/fizaashraf37/Leetcode/tree/master/0739-daily-temperatures) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Heap (Priority Queue)
 |  |
