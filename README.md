@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/fizaashraf37/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fizaashraf37/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/fizaashraf37/Leetcode/tree/master/0567-permutation-in-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/fizaashraf37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/fizaashraf37/Leetcode/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/fizaashraf37/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/fizaashraf37/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/fizaashraf37/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/fizaashraf37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/fizaashraf37/Leetcode/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/fizaashraf37/Leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fizaashraf37/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/fizaashraf37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/fizaashraf37/Leetcode/tree/master/0567-permutation-in-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/fizaashraf37/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
