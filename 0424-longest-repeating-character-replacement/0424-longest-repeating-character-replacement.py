@@ -9,7 +9,7 @@ class Solution:
         for end in range(len(s)):
             hash_map[s[end]] += 1
             frequent_char_count = max(frequent_char_count, hash_map[s[end]])
-            while frequent_char_count + k < end - start + 1:
+            if frequent_char_count + k < end - start + 1:
                 hash_map[s[start]] -= 1
                 frequent_char_count = max(frequent_char_count, hash_map[s[start]])
                 start += 1
