@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fizaashraf37/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/fizaashraf37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/fizaashraf37/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/fizaashraf37/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/fizaashraf37/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/fizaashraf37/Leetcode/tree/master/0427-construct-quad-tree) |
@@ -244,12 +245,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/fizaashraf37/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fizaashraf37/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/fizaashraf37/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/fizaashraf37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fizaashraf37/Leetcode/tree/master/0567-permutation-in-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/fizaashraf37/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Stack
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/fizaashraf37/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/fizaashraf37/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/fizaashraf37/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
