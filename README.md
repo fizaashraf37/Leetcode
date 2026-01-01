@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/fizaashraf37/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fizaashraf37/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/fizaashraf37/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0875-koko-eating-bananas](https://github.com/fizaashraf37/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/fizaashraf37/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0851-loud-and-rich](https://github.com/fizaashraf37/Leetcode/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/fizaashraf37/Leetcode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/fizaashraf37/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
