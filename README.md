@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/fizaashraf37/Leetcode/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0851-loud-and-rich](https://github.com/fizaashraf37/Leetcode/tree/master/0851-loud-and-rich) |
+| [0853-car-fleet](https://github.com/fizaashraf37/Leetcode/tree/master/0853-car-fleet) |
 | [1020-number-of-enclaves](https://github.com/fizaashraf37/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fizaashraf37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/fizaashraf37/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fizaashraf37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fizaashraf37/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/fizaashraf37/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/fizaashraf37/Leetcode/tree/master/0853-car-fleet) |
 | [3531-count-covered-buildings](https://github.com/fizaashraf37/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/fizaashraf37/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Depth-First Search
@@ -275,12 +277,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/fizaashraf37/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/fizaashraf37/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/fizaashraf37/Leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/fizaashraf37/Leetcode/tree/master/0853-car-fleet) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fizaashraf37/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/fizaashraf37/Leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/fizaashraf37/Leetcode/tree/master/0853-car-fleet) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/fizaashraf37/Leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Heap (Priority Queue)
 |  |
